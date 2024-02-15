@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Anubhav Malik</h1>
 
-<img><![Screenshot 2024-02-15 195036](https://github.com/Anubhavmalik1/anubhavmalik1/assets/147001039/1d37bbca-e1b9-4237-8a01-a78e004c576f)
-/img>
+<img>![Screenshot 2024-02-15 195036](https://github.com/Anubhavmalik1/anubhavmalik1/assets/147001039/1d37bbca-e1b9-4237-8a01-a78e004c576f)</img>
 
 
 <h3 align="center">I'm Anubhav Malik an Energetic fresher with having good knowledge of computer subjects. The goal is to convert my ideas into the computer with my skills. also eager to know more about personality development with a strong willingness to become the best version of my self.</h3>
