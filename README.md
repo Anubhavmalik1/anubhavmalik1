@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Malik</h1>
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning Everything
 
 - 👯 I’m looking to collaborate with **other Developers**
 
