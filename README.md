@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Anubhav Malik</h1>
-- 🌱 I’m currently learning Everything
+<h1 align="center">Hi 👋, I'm Anubhav Malik</h1>
+<h3 align="center">I'm Anubhav Malik an Energetic fresher with having good knowledge of computer subjects. The goal is to convert my ideas into the computer with my skills. also eager to know more about personality development with a strong willingness to become the best version of my self.</h3>
+
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate with **other Developers**
 
