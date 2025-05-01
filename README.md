@@ -12,7 +12,9 @@
 
 - 👯 I’m looking to collaborate with **other Quant Developers**
 
-- 📫 How to reach me **anubhavmalik029@gmail.com** **https://www.tradingpatience.in/**
+- 📫 How to reach me **anubhavmalik029@gmail.com** 
+
+- 🌐 Founder of : **https://www.tradingpatience.in/**
 
 - 🥅 2025 Goals: **Contribute more to Quant Finance**
 
