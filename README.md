@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate with **other Developers**
+- 👯 I’m looking to collaborate with **other Quant Developers**
 
 - 📫 How to reach me **anubhavmalik029@gmail.com**
 
