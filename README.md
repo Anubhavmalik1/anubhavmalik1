@@ -1,9 +1,10 @@
 <h1 align="center">Hi there👋, I'm Anubhav Malik</h1>
 
 
-<img>![Screenshot 2024-02-15 204015](https://github.com/Anubhavmalik1/anubhavmalik1/assets/147001039/32d885ba-9af7-4f9b-922f-4773c521f8a7)</img>
+<img>![Screenshot 2024-02-15 204015](https://github.com/user-attachments/assets/6d49ca4e-e1c8-4f66-b790-78c228521822)</img>
 
 <h4 align="center">I’m Anubhav Malik, a low-latency developer (C++) at Symphony Fintech, certified in the NISM Series VIII Equity and Derivatives Exam by SEBI. I also possess expertise in Python programming and have experience as a Software Trainer at a Government Polytechnic College. My vision is to combine my knowledge of algorithmic trading and low-latency development to build robust systems tailored for High-Frequency Trading (HFT) firms.</h4>
+![Uploading ss.png…]()
 
   <!-- ![I am Computer Science Student] -->
 ----
